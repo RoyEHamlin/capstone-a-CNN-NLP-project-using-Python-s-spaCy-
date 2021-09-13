@@ -1,4 +1,4 @@
-# capstone
+# Capstone
 Pre-processing
 Prep Test index format:
 For the purposes of the LSAT, the typical format of "Prep Test/Section/Question Number as used. e.g. [21.0,02,05] indicates Prep test 21, Section 2, Question 5. Two irregularies exist. First, a decimal was utilized for prep test reference. This would allow for Prep Test exams to remain both in chronological as well as numerical order since six LSAT prep test exams were released periodically throughout the years. See here https://www.powerscore.com/lsat/help/pub_ident.cfm. e.g. "June 2007" was imported as [51.5,01,01] since June 2007 falls chronolically between prep test 51 (Dec 2006) and 52 (Sept 2007).
